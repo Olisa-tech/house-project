@@ -1,0 +1,29 @@
+/* css declaration */
+/* selector{
+    property: value;
+} */
+*{
+    margin: 0;
+}
+div{
+    width: 300px;
+    display: inline-block;
+    vertical-align: middle;
+    padding: 20px;
+    text-align: justify;
+}
+/* selection by tag */
+#Firstcolumn{
+    background-color: chartreuse;
+}
+#secondcolumn{
+    background-color: coral;
+}
+.thirdcolumn{
+    background-color: cornflowerblue;
+}
+section{
+    width: 90%;
+    margin: 40px auto;
+    text-align: center;
+}
